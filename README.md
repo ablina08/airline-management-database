@@ -28,6 +28,3 @@ Pilot assignment
 
 Capacity control (Triggers)
 
-## Database Diagram
-
-![ERD](diagrams/airline_diagram.png)
